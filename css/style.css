@@ -3,8 +3,10 @@
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
+/*
 @import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900");
+*/
 
 /* Basic */
 
@@ -522,10 +524,12 @@ div img{
 h2{
 	font-family: didot,times,serif;
 }
-	#logo {
-		font-size: 2em;	
-		height: 3.5em;
-	}
+
+#small{
+	height:2em;
+}
+	
+
 
 	#nav > ul {
 		margin: 0;
